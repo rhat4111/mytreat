@@ -1,0 +1,100 @@
+[
+  {
+    "name": "appointments",
+    "path": "/appointments",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\appointments\\\\index.vue",
+    "chunkName": "pages/appointments/index",
+    "_name": "_d9585016"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\categories.vue",
+    "chunkName": "pages/categories",
+    "_name": "_53e2d4d6"
+  },
+  {
+    "name": "favorite",
+    "path": "/favorite",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\favorite.vue",
+    "chunkName": "pages/favorite",
+    "_name": "_4a529d55"
+  },
+  {
+    "name": "message",
+    "path": "/message",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\message.vue",
+    "chunkName": "pages/message",
+    "_name": "_61ed1fde"
+  },
+  {
+    "name": "myaccount",
+    "path": "/myaccount",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\myaccount.vue",
+    "chunkName": "pages/myaccount",
+    "_name": "_c96c3bd0"
+  },
+  {
+    "name": "payment",
+    "path": "/payment",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\payment\\\\index.vue",
+    "chunkName": "pages/payment/index",
+    "_name": "_1f432785"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_4f256cea"
+  },
+  {
+    "name": "setting",
+    "path": "/setting",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\setting.vue",
+    "chunkName": "pages/setting",
+    "_name": "_e2a23cb2"
+  },
+  {
+    "name": "appointments-time",
+    "path": "/appointments/time",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\appointments\\\\time.vue",
+    "chunkName": "pages/appointments/time",
+    "_name": "_a918780c"
+  },
+  {
+    "name": "payment-fail",
+    "path": "/payment/fail",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\payment\\\\fail.vue",
+    "chunkName": "pages/payment/fail",
+    "_name": "_70bd938a"
+  },
+  {
+    "name": "payment-success",
+    "path": "/payment/success",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\payment\\\\success.vue",
+    "chunkName": "pages/payment/success",
+    "_name": "_03413914"
+  },
+  {
+    "name": "services-detail",
+    "path": "/services/detail",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\services\\\\detail.vue",
+    "chunkName": "pages/services/detail",
+    "_name": "_64e21130"
+  },
+  {
+    "name": "appointments-id",
+    "path": "/appointments/:id",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\appointments\\\\_id.vue",
+    "chunkName": "pages/appointments/_id",
+    "_name": "_3a71539d"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\workspace\\\\diamond\\\\mytreat\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5ac1e22e"
+  }
+]

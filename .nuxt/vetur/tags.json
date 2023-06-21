@@ -1,0 +1,50 @@
+{
+  "Accordion": {
+    "description": "Auto imported from components/Accordion.vue"
+  },
+  "AppointmentCard": {
+    "description": "Auto imported from components/AppointmentCard.vue"
+  },
+  "Avatar": {
+    "description": "Auto imported from components/Avatar.vue"
+  },
+  "Button": {
+    "description": "Auto imported from components/Button.vue"
+  },
+  "CategoryCard": {
+    "description": "Auto imported from components/CategoryCard.vue"
+  },
+  "FavoriteCard": {
+    "description": "Auto imported from components/FavoriteCard.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Radio": {
+    "description": "Auto imported from components/Radio.vue"
+  },
+  "Rate": {
+    "description": "Auto imported from components/Rate.vue"
+  },
+  "Review": {
+    "description": "Auto imported from components/Review.vue"
+  },
+  "Service": {
+    "description": "Auto imported from components/Service.vue"
+  },
+  "Step": {
+    "description": "Auto imported from components/Step.vue"
+  },
+  "Tab": {
+    "description": "Auto imported from components/Tab.vue"
+  },
+  "TextField": {
+    "description": "Auto imported from components/TextField.vue"
+  },
+  "TimeCard": {
+    "description": "Auto imported from components/TimeCard.vue"
+  }
+}
